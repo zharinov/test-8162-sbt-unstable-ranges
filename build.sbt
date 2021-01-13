@@ -1,4 +1,4 @@
-val Http4sVersionRange = "0.21.0"
+val Http4sVersionRange = "0.21.15"
 
 name := "server"
 scalaVersion := "2.13.4"
